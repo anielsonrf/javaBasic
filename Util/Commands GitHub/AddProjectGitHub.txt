@@ -2,9 +2,9 @@ git init
 
 git add .
 
-git commit -m "No Inicio."
+git commit -m "Start"
 
-git remote add origin https://github.com/anielsonrf/Delphi7.git
+git remote add origin https://github.com/anielsonrf/javaBasic.git
 
 git pull origin
 
