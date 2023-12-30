@@ -1,0 +1,13 @@
+git init
+
+git add .
+
+git commit -m "No Inicio."
+
+git remote add origin https://github.com/anielsonrf/SisacMobile.git
+
+git pull origin
+
+git branch -M main
+
+git push -u origin main
